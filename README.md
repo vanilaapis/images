@@ -1,5 +1,12 @@
 # images
 
+<img width="1199" height="809" alt="Serene Coastal Bliss Photo" src="https://github.com/user-attachments/assets/4094c8a9-9438-4861-9d99-6b23c1addc90" />
+
+
+<img width="800" height="1200" alt="Aerial Shoreline Serenity Photo" src="https://github.com/user-attachments/assets/828e23ff-2426-4826-9f42-713bf5a8578e" />
+
+<img width="673" height="1200" alt="Tropical Beach Scene Photo" src="https://github.com/user-attachments/assets/c1037f36-62e6-47f6-9db5-a26dad7b9754" />
+
 <img width="247" height="254" alt="image" src="https://github.com/user-attachments/assets/26996c79-aef9-406a-a156-2b1ba21e1140" />
 
 <img width="199" height="197" alt="image" src="https://github.com/user-attachments/assets/aded856b-ffa8-4159-9e9b-ed2214b6eb01" />
