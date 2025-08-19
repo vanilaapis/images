@@ -7,6 +7,7 @@
 
 
 
+<img width="800" height="1200" alt="Vibrant Beach Day Coastal Landscape" src="https://github.com/user-attachments/assets/f256bb8b-6493-4a4f-b1d2-1eea80ab3a00" />
 
 <img width="800" height="1200" alt="Aerial Shoreline Serenity Photo" src="https://github.com/user-attachments/assets/828e23ff-2426-4826-9f42-713bf5a8578e" />
 
