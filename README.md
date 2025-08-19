@@ -1,6 +1,7 @@
 # images
 
 <img width="1199" height="809" alt="Serene Coastal Bliss Photo" src="https://github.com/user-attachments/assets/4094c8a9-9438-4861-9d99-6b23c1addc90" />
+<img width="552" height="1199" alt="Serene Tropical Bliss Beach Palm Trees" src="https://github.com/user-attachments/assets/e34b357f-c0bb-4914-8bc1-d20f3e09ebd0" />
 
 
 <img width="800" height="1200" alt="Aerial Shoreline Serenity Photo" src="https://github.com/user-attachments/assets/828e23ff-2426-4826-9f42-713bf5a8578e" />
