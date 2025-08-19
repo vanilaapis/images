@@ -7,6 +7,7 @@
 
 <img width="967" height="1200" alt="Tropical Beach Pathway Photo" src="https://github.com/user-attachments/assets/54221dde-9758-48b4-adea-23098fcb5f00" />
 
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/37651109-8c83-4fdc-b2fd-37435f33ba51" />
 
 
 <img width="800" height="1200" alt="Vibrant Beach Day Coastal Landscape" src="https://github.com/user-attachments/assets/f256bb8b-6493-4a4f-b1d2-1eea80ab3a00" />
