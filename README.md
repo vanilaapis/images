@@ -3,6 +3,9 @@
 <img width="1199" height="809" alt="Serene Coastal Bliss Photo" src="https://github.com/user-attachments/assets/4094c8a9-9438-4861-9d99-6b23c1addc90" />
 <img width="552" height="1199" alt="Serene Tropical Bliss Beach Palm Trees" src="https://github.com/user-attachments/assets/e34b357f-c0bb-4914-8bc1-d20f3e09ebd0" />
 
+
+<img width="1440" height="2560" alt="image" src="https://github.com/user-attachments/assets/5e80c4f5-2eee-4339-aca1-959fe43b7abc" />
+
 <img width="673" height="1200" alt="Vibrant Beach Day Serenity Photo" src="https://github.com/user-attachments/assets/2c56eeb0-b5ad-4314-889d-343110e1953f" />
 
 <img width="967" height="1200" alt="Tropical Beach Pathway Photo" src="https://github.com/user-attachments/assets/54221dde-9758-48b4-adea-23098fcb5f00" />
