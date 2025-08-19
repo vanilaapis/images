@@ -5,6 +5,8 @@
 
 <img width="673" height="1200" alt="Vibrant Beach Day Serenity Photo" src="https://github.com/user-attachments/assets/2c56eeb0-b5ad-4314-889d-343110e1953f" />
 
+<img width="967" height="1200" alt="Tropical Beach Pathway Photo" src="https://github.com/user-attachments/assets/54221dde-9758-48b4-adea-23098fcb5f00" />
+
 
 
 <img width="800" height="1200" alt="Vibrant Beach Day Coastal Landscape" src="https://github.com/user-attachments/assets/f256bb8b-6493-4a4f-b1d2-1eea80ab3a00" />
