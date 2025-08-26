@@ -1,6 +1,7 @@
 # images
 
 
+<img width="1920" height="1080" alt="flashlist-v2" src="https://github.com/user-attachments/assets/09003df5-013b-4a3c-b33d-b868c508097c" />
 
 
 <img width="1290" height="2796" alt="simulator_screenshot_6C89D1B1-F2C0-4C6F-904D-8A9060E8D5CA" src="https://github.com/user-attachments/assets/95b0e64d-b13b-420e-ae5f-333c7f00069a" />
