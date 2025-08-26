@@ -1,5 +1,9 @@
 # images
 
+
+<img width="943" height="602" alt="image" src="https://github.com/user-attachments/assets/99d04b7b-ac8e-4b45-9b28-f87bbc08eb10" />
+
+
 <img width="1199" height="809" alt="Serene Coastal Bliss Photo" src="https://github.com/user-attachments/assets/4094c8a9-9438-4861-9d99-6b23c1addc90" />
 <img width="552" height="1199" alt="Serene Tropical Bliss Beach Palm Trees" src="https://github.com/user-attachments/assets/e34b357f-c0bb-4914-8bc1-d20f3e09ebd0" />
 
