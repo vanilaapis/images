@@ -4,3 +4,4 @@
 
 
 <img width="3840" height="2912" alt="moods-app-ui" src="https://github.com/user-attachments/assets/ec88435f-dfff-481c-96a0-6d15d1a40672" />
+
